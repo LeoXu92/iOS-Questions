@@ -2,7 +2,7 @@
 
 ## Runtime
 
-1. `Category` 有哪些用途？
+{% page-ref page="runtime/category-you-na-xie-yong-tu.md" %}
 
 
 
